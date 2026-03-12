@@ -64,3 +64,27 @@ I am a passionate developer who thrives on solving complex problems through code
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
 </p>
+---
+
+### 📊 My GitHub Journey
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-kumar-pandit&theme=react-dark&area=true&hide_border=true&border_radius=10" width="100%" alt="3D Activity Graph" />
+</p>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=ayush-kumar-pandit&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-kumar-pandit&layout=compact&theme=radical&hide_border=true" height="180" />
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-kumar-pandit&theme=radical&hide_border=true" alt="streak stats" width="100%"/>
+</div>
+
+---
