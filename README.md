@@ -63,7 +63,7 @@ I am a passionate developer who thrives on solving complex problems through code
     <img src="https://img.shields.io/badge/leetcode-20B2AA?style=for-the-badge" />
   </a>
   <a href="https://www.hackerrank.com/profile/ayushpandit672" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-8A2BE2" />
+    <img src="https://img.shields.io/badge/HackerRank-brightgreen?style=for-the-badge" />
   </a>
 </p>
 
