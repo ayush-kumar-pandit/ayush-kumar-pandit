@@ -67,5 +67,3 @@ I am a passionate developer who thrives on solving complex problems through code
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
 </p>
----
-
