@@ -59,6 +59,9 @@ I am a passionate developer who thrives on solving complex problems through code
   <a href="https://yourportfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-FFB13B?style=for-the-badge&logo=about.me&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/ayush-kumar-pandit/">
+    <img src="https://img.shields.io/badge/leetcode-20B2AA?style=for-the-badge" />
+  </a>
 </p>
 
 <p align="center">
