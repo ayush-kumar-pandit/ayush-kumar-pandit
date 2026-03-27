@@ -13,12 +13,12 @@
 
 ### 👨‍💻 About Me
 
-I am a backend-focused Computer Science student passionate about building scalable server-side applications. [cite_start]I specialize in **Python-based architectures**, REST API development, and optimizing system performance[cite: 7].
+I am a backend-focused Computer Science student passionate about building scalable server-side applications. I specialize in **Python-based architectures**, REST API development, and optimizing system performance.
 
 * 🔭 **Recent Experience:** Developed an **Agentic Framework for System Monitoring** during my internship at **Jio Platforms Limited**.
-* 🌱 **Learning Path:** Advancing my skills in **System Design**, **Django REST Framework**, and **Asynchronous Processing**[cite: 7, 22, 25].
+* 🌱 **Learning Path:** Advancing my skills in **System Design**, **Django REST Framework**, and **Asynchronous Processing**.
 * ⚡ **Fun Fact:** I treat debugging like a detective novel—except the killer is usually an indentation error.
-* 💬 **Ask me about:** Flask, Django, Web Scraping, or building secure CRUD applications[cite: 32, 36].
+* 💬 **Ask me about:** Flask, Django, Web Scraping, or building secure CRUD applications.
 
 ---
 
@@ -26,10 +26,10 @@ I am a backend-focused Computer Science student passionate about building scalab
 
 | Category | Tools & Languages |
 
-| **Languages** | [cite_start]`Python`, `C/C++`, `JavaScript`, `HTML5`, `CSS3` [cite: 35] |
-| **Frameworks** | [cite_start]`Django`, `Flask`, `Streamlit`, `Django REST Framework` [cite: 22, 36] |
-| **Databases** | [cite_start]`MySQL`, `Relational Schema Design` [cite: 33, 36] |
-| **Tools & DevOps**| [cite_start]`Git`, `GitHub`, `Postman`, `Pandas`, `Judge0 API` [cite: 24, 36] |
+| **Languages** | `Python`, `C/C++`, `JavaScript`, `HTML5`, `CSS3` |
+| **Frameworks** | `Django`, `Flask`, `Streamlit`, `Django REST Framework` |
+| **Databases** | `MySQL`, `Relational Schema Design` |
+| **Tools & DevOps**| `Git`, `GitHub`, `Postman`, `Pandas`, `Judge0 API`  |
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,django,flask,mysql,github,git,postman,tailwind" />
