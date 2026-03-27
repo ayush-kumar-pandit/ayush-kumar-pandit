@@ -13,19 +13,19 @@
 
 ### 👨‍💻 About Me
 
-[cite_start]I am a backend-focused Computer Science student passionate about building scalable server-side applications. [cite_start]I specialize in **Python-based architectures**, REST API development, and optimizing system performance[cite: 7].
+I am a backend-focused Computer Science student passionate about building scalable server-side applications. [cite_start]I specialize in **Python-based architectures**, REST API development, and optimizing system performance[cite: 7].
 
-* [cite_start]🔭 **Recent Experience:** Developed an **Agentic Framework for System Monitoring** during my internship at **Jio Platforms Limited**.
-* [cite_start]🌱 **Learning Path:** Advancing my skills in **System Design**, **Django REST Framework**, and **Asynchronous Processing**[cite: 7, 22, 25].
+* 🔭 **Recent Experience:** Developed an **Agentic Framework for System Monitoring** during my internship at **Jio Platforms Limited**.
+* 🌱 **Learning Path:** Advancing my skills in **System Design**, **Django REST Framework**, and **Asynchronous Processing**[cite: 7, 22, 25].
 * ⚡ **Fun Fact:** I treat debugging like a detective novel—except the killer is usually an indentation error.
-* [cite_start]💬 **Ask me about:** Flask, Django, Web Scraping, or building secure CRUD applications[cite: 32, 36].
+* 💬 **Ask me about:** Flask, Django, Web Scraping, or building secure CRUD applications[cite: 32, 36].
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 | Category | Tools & Languages |
-| :--- | :--- |
+
 | **Languages** | [cite_start]`Python`, `C/C++`, `JavaScript`, `HTML5`, `CSS3` [cite: 35] |
 | **Frameworks** | [cite_start]`Django`, `Flask`, `Streamlit`, `Django REST Framework` [cite: 22, 36] |
 | **Databases** | [cite_start]`MySQL`, `Relational Schema Design` [cite: 33, 36] |
@@ -39,9 +39,9 @@
 
 ### 🚀 Featured Projects
 
-* [cite_start]**[Online Compiler](https://github.com/ayush-kumar-pandit)**: Built a scalable REST API backend using **Flask** and **Judge0** to handle asynchronous code execution and token-based job polling[cite: 24, 25, 26].
-* [cite_start]**[Car Rental Platform](https://github.com/ayush-kumar-pandit)**: A full-stack application developed with **Django** featuring dynamic filtering, RESTful services, and cross-origin (CORS) handling[cite: 20, 21, 23].
-* [cite_start]**[Employee Management System](https://github.com/ayush-kumar-pandit)**: A secure CRUD-based system using **CustomTkinter** and **MySQL** with robust authentication flows[cite: 31, 32, 33].
+* **[Online Compiler](https://github.com/ayush-kumar-pandit)**: Built a scalable REST API backend using **Flask** and **Judge0** to handle asynchronous code execution and token-based job polling.
+* **[Car Rental Platform](https://github.com/ayush-kumar-pandit)**: A full-stack application developed with **Django** featuring dynamic filtering, RESTful services, and cross-origin (CORS) handling.
+* **[Employee Management System](https://github.com/ayush-kumar-pandit)**: A secure CRUD-based system using **CustomTkinter** and **MySQL** with robust authentication flows.
 
 ---
 
