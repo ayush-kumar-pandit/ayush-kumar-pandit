@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ayush Kumar Pandit! <img src="https://media.giphy.com/media/hvRJCLzz8CztK/giphy.gif" width="28"></h1>
 
 <p align="center">
-  <b>Aspiring Software Engineer • Python Architect • Automation & AI Enthusiast</b>
+  <b>Backend Developer • Python Enthusiast • Aspiring Software Engineer</b>
 </p>
 
 <p align="center">
@@ -13,12 +13,12 @@
 
 ### 👨‍💻 About Me
 
-I am a software craftsman who loves turning caffeine into clean, scalable code. My work lives at the intersection of **Backend Architecture**, **Web Intelligence**, and **Algorithmic Problem Solving**.
+[cite_start]I am a backend-focused Computer Science student passionate about building scalable server-side applications. [cite_start]I specialize in **Python-based architectures**, REST API development, and optimizing system performance[cite: 7].
 
-* 🔭 **Current Focus:** Engineering high-performance Python microservices and exploring Large Language Models (LLMs).
-* 🌱 **Learning Path:** Advanced System Design, Cloud-Native development (AWS/Docker), and mastering $O(n \log n)$ solutions for LeetCode Hard problems.
-* ⚡ **Fun Fact:** I treat debugging like a detective novel—except the killer is usually a missing semicolon (or an indentation error).
-* 💬 **Ask me about:** Pythonic patterns, Web Scraping at scale, or why VS Code is the ultimate command center.
+* [cite_start]🔭 **Recent Experience:** Developed an **Agentic Framework for System Monitoring** during my internship at **Jio Platforms Limited**.
+* [cite_start]🌱 **Learning Path:** Advancing my skills in **System Design**, **Django REST Framework**, and **Asynchronous Processing**[cite: 7, 22, 25].
+* ⚡ **Fun Fact:** I treat debugging like a detective novel—except the killer is usually an indentation error.
+* [cite_start]💬 **Ask me about:** Flask, Django, Web Scraping, or building secure CRUD applications[cite: 32, 36].
 
 ---
 
@@ -26,21 +26,22 @@ I am a software craftsman who loves turning caffeine into clean, scalable code. 
 
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Languages** | `Python`, `C++`, `JavaScript`, `HTML5`, `CSS3` |
-| **Backend & Automation** | `Django`, `FastAPI`, `Selenium`, `BeautifulSoup` |
-| **DevOps & Tools** | `Git`, `Docker`, `Linux (Ubuntu)`, `VS Code`, `Postman` |
-| **Database** | `PostgreSQL`, `MongoDB`, `Redis` |
+| **Languages** | [cite_start]`Python`, `C/C++`, `JavaScript`, `HTML5`, `CSS3` [cite: 35] |
+| **Frameworks** | [cite_start]`Django`, `Flask`, `Streamlit`, `Django REST Framework` [cite: 22, 36] |
+| **Databases** | [cite_start]`MySQL`, `Relational Schema Design` [cite: 33, 36] |
+| **Tools & DevOps**| [cite_start]`Git`, `GitHub`, `Postman`, `Pandas`, `Judge0 API` [cite: 24, 36] |
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,django,fastapi,postgres,docker,git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,django,flask,mysql,github,git,postman,tailwind" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects
 
-* **[Project Name]** - A scalable web scraper that processes [X] data points per minute using Python & Celery.
-* **[Project Name]** - An AI-integrated workflow tool that automates [specific task] using OpenAI APIs.
+* [cite_start]**[Online Compiler](https://github.com/ayush-kumar-pandit)**: Built a scalable REST API backend using **Flask** and **Judge0** to handle asynchronous code execution and token-based job polling[cite: 24, 25, 26].
+* [cite_start]**[Car Rental Platform](https://github.com/ayush-kumar-pandit)**: A full-stack application developed with **Django** featuring dynamic filtering, RESTful services, and cross-origin (CORS) handling[cite: 20, 21, 23].
+* [cite_start]**[Employee Management System](https://github.com/ayush-kumar-pandit)**: A secure CRUD-based system using **CustomTkinter** and **MySQL** with robust authentication flows[cite: 31, 32, 33].
 
 ---
 
@@ -57,7 +58,6 @@ I am a software craftsman who loves turning caffeine into clean, scalable code. 
       </td>
     </tr>
   </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-kumar-pandit&theme=radical&hide_border=true" alt="streak stats" />
 </div>
 
 ---
