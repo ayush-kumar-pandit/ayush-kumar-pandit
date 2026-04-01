@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Ayush%20Kumar%20Pandit&fontSize=70&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=200&section=header&text=Ayush%20Kumar%20Pandit&fontSize=70&animation=fadeIn" width="100%"/>
 
   <h3>🚀 Backend Architect | Python Specialist | Problem Solver</h3>
 
