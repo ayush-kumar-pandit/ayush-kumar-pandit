@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=200&section=header&text=Ayush%20Kumar%20Pandit&fontSize=70&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Ayush%20Kumar%20Pandit&fontSize=70&animation=fadeIn" width="100%"/>
 
   <h3>🚀 Backend Architect | Python Specialist | Problem Solver</h3>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/ayush-kumar-pandit"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-    <a href="https://leetcode.com/u/ayush-kumar-pandit/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
-    <a href="mailto:ayushpandit672@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-    <a href="https://ayushpandit.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-FFB13B?style=flat-square&logo=react&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/ayush-kumar-pandit" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="https://leetcode.com/u/ayush-kumar-pandit/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
+    <a href="mailto:ayushpandit672@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+    <a href="https://ayushpandit.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-FFB13B?style=flat-square&logo=react&logoColor=white" /></a>
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=ayush-kumar-pandit&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="views" />
