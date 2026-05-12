@@ -20,7 +20,7 @@ I’m a Computer Science student navigating the intersection of **robotic backen
 
 * **Current Mission:** Mastering high-level System Design, Asynchronous Architectures, and Advanced Data Visualization techniques.
 * **Philosophy:** Write code that is as easy to read as a book, efficient as a machine, and tells a compelling story through data.
-* **Hidden Talent:** Debugging complex logic and cleaning messy datasets while my coffee gets cold. ☕📊
+* **Hidden Talent:** Debugging complex logic and cleaning messy datasets while my coffee gets cold.
 
 ---
 
