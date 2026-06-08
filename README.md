@@ -101,6 +101,5 @@ I’m a Computer Science student navigating the intersection of **robotic backen
   <br />
   <sub>Built with ❤️, Python, and Data Insights by <b>Ayush Kumar Pandit</b></sub>
 </div>
-:::
 
 
