@@ -103,7 +103,4 @@ I’m a Computer Science student navigating the intersection of **robotic backen
 </div>
 :::
 
-Also, the snake will only show after your workflow successfully creates this file:
 
-```text
-output/github-contribution-grid-snake.svg
