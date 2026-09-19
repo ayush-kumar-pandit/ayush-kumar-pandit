@@ -22,9 +22,9 @@ I'm a Computer Science student who likes owning both ends of a system: the backe
 class Ayush:
     def __init__(self):
         self.role = "CS Student · Backend + Data"
-        self.focus = ["system design", "async architecture", "data storytelling"]
-        self.stack = ["Python", "Django/DRF", "SQL", "Pandas"]
-        self.currently_learning = "applying ML to backend telemetry"
+        self.focus = ["system design", "async architecture", "data storytelling", "ETL pipelines"]
+        self.stack = ["Python", "Django/DRF", "Celery", "SQL", "Pandas", "PowerBI"]
+        self.currently_learning = "applying ML to backend telemetry & advanced ORM optimization"
 
     def debug(self, problem):
         while problem.unsolved and self.coffee.is_hot:
@@ -42,22 +42,25 @@ class Ayush:
 
 **Languages & Core**
 <br>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,sql" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,sql,bash" />
 
 **Backend & APIs**
 <br>
-<img src="https://skillicons.dev/icons?i=django,flask,postman" />
+<img src="https://skillicons.dev/icons?i=django,flask,redis,rabbitmq,postman" />
+<br><sub>Django ORM · DRF · Celery · Pytest · Gunicorn</sub>
 
 </td>
 <td valign="top" width="50%">
 
 **Data & Analysis**
 <br>
-<img src="https://skillicons.dev/icons?i=py,sklearn" /> Pandas · NumPy · Matplotlib
+<img src="https://skillicons.dev/icons?i=py,sklearn,jupyter,tensorflow" /> 
+<br><sub>Pandas · NumPy · PowerBI · Tableau · Excel</sub>
 
 **Infra & Tools**
 <br>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,docker" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,docker,aws,githubactions" />
+<br><sub>CI/CD · Docker Compose · AWS EC2/S3</sub>
 
 </td>
 </tr>
@@ -69,43 +72,54 @@ class Ayush:
 
 <table>
 <tr>
-<td width="33%" valign="top">
-
-**🖥️ Online Compiler**
-
-Async code-execution engine on Judge0 with queued job processing for concurrent submissions.
-
-`Flask` `Redis` `API`
-
-[View repo →](https://github.com/ayush-kumar-pandit)
-
-</td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 **🚗 Car Rental Hub**
 
-Full-stack rental platform — role-based auth, dynamic filtering, cross-origin API handling done right.
+Full-stack rental platform — role-based auth, dynamic filtering, query optimization, and cross-origin API handling done right.
 
-`Django` `DRF` `React` `SQL`
+`Django` `DRF` `PostgreSQL` `React`
 
-[View repo →](https://github.com/ayush-kumar-pandit)
+[View repo →](https://github.com/ayush-kumar-pandit/YOUR_REPO_NAME_HERE)
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
+
+**📊 Customer Retention Analytics**
+
+End-to-end data pipeline cleaning 50k+ records. Includes an interactive EDA dashboard highlighting churn trends and feature correlation.
+
+`Pandas` `Scikit-learn` `Jupyter` `PowerBI`
+
+[View repo →](https://github.com/ayush-kumar-pandit/YOUR_REPO_NAME_HERE)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🖥️ Online Compiler**
+
+Async code-execution engine on Judge0 utilizing queued background job processing for concurrent user submissions.
+
+`Flask` `Redis` `Celery` `Docker`
+
+[View repo →](https://github.com/ayush-kumar-pandit/YOUR_REPO_NAME_HERE)
+
+</td>
+<td width="50%" valign="top">
 
 **🗂️ Employee Core**
 
-Secure CRUD system for employee records with a native desktop client and hardened auth.
+Secure CRUD system for employee records with a native desktop client, data export capabilities, and hardened auth.
 
 `Python` `MySQL` `CustomTkinter`
 
-[View repo →](https://github.com/ayush-kumar-pandit)
+[View repo →](https://github.com/ayush-kumar-pandit/YOUR_REPO_NAME_HERE)
 
 </td>
 </tr>
 </table>
-
-> Swap the three repo links above for the real per-project URLs — right now all three point at your profile page.
 
 <br>
 
