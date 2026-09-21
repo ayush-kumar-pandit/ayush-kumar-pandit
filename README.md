@@ -2,6 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:3670A0&height=180&section=header&text=Hi,%20I'm%20Ayush%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3670A0&center=true&vCenter=true&width=600&lines=Backend+Engineer;Data+Analyst;System+Design+Enthusiast;Building+scalable+systems" alt="Typing SVG" /></a>
 
 <br>
